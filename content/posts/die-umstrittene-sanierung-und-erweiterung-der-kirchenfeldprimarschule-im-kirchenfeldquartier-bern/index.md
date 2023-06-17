@@ -57,9 +57,7 @@ Dass das Bauprojekt immer noch gestoppt ist, ist aber nicht «nur» wegen den vo
 >
 > *Einst als "Wundermineral" gefeiert, entpuppt sich Asbest heute als tödliche Gesundheitsgefahr. In vielen älteren Gebäuden lauert Asbest unbemerkt, versteckt in Bauelementen wie Dachplatten, Bodenbelägen und Isolierungen. Beim Einatmen der winzigen Asbestfasern werden schwerwiegende Krankheiten wie Lungenkrebs und Mesotheliom verursacht. Selbst geringe Mengen über längere Zeit sind bedrohlich.*
 >
-> *Die Sanierung und Prävention von Asbest erfordern fachgerechte Verfahren und strenge Vorsichtsmaßnahmen. Experten sind notwendig, um Asbest zu identifizieren, zu entfernen und sicher zu entsorgen. Es ist ein komplexer Prozess, der Fachwissen und Schutzmassnahmen erfordert.*
->
-> *Eine koordinierte Anstrengung von Regierungen, Fachleuten und der Öffentlichkeit ist nötig, um die unsichtbare Gefahr zu beseitigen und die Gesundheit aller zu schützen. Das Bewusstsein für Asbestgefahren muss erhöht werden, um präventive Massnahmen und ordnungsgemässe Sanierungen zu fördern. Nur so können wir historische Gebäude sicher und asbestfrei erhalten und zukünftige Generationen schützen.*
+> *Die Sanierung und Prävention von Asbest erfordern fachgerechte Verfahren und strenge Vorsichtsmaßnahmen. Experten sind notwendig, um Asbest zu identifizieren, zu entfernen und sicher zu entsorgen. Es ist ein komplexer Prozess, der Fachwissen und Schutzmassnahmen erfordert.Eine koordinierte Anstrengung von Regierungen, Fachleuten und der Öffentlichkeit ist nötig, um die unsichtbare Gefahr zu beseitigen und die Gesundheit aller zu schützen. Das Bewusstsein für Asbestgefahren muss erhöht werden, um präventive Massnahmen und ordnungsgemässe Sanierungen zu fördern. Nur so können wir historische Gebäude sicher und asbestfrei erhalten und zukünftige Generationen schützen.*
 
 ### Asbestfund: eine weitere Herausforderung
 
