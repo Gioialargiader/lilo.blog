@@ -3,6 +3,7 @@ title = "Die umstrittene Sanierung und Erweiterung, der Kirchenfeldprimarschule 
 date = "2023-06-17"
 draft = false
 pinned = false
+image = "microsoftteams-image-6-.png"
 +++
 # Die umstrittene Sanierung und Erweiterung, der Kirchenfeldprimarschule im Kirchenfeldquartier, Bern
 
