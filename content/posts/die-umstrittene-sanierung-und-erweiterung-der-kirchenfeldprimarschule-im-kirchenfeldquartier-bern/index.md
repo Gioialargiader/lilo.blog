@@ -7,7 +7,7 @@ image = "microsoftteams-image-6-.png"
 +++
 # Die umstrittene Sanierung und Erweiterung, der Kirchenfeldprimarschule im Kirchenfeldquartier, Bern
 
-###### *Mangelnd an Räumlichkeiten, kämpf die Kirchenfeldprimarschule gegen Asbest. Das Bauprojekt wird als Lösung umstritten währenddem das Problem von allen Aspekten ans Licht gebracht wird.* 
+###### *Mangelnd an Räumlichkeiten, kämpft die Kirchenfeldprimarschule gegen Asbest. Das Bauprojekt wird als Lösung umstritten währenddem das Problem von allen Aspekten ans Licht gebracht wird.* 
 
 Wenn man in Bern über die Monbijoubrücke ins Kirchenfeldquartier fährt, passiert man unmittelbar nach der Brücke einen älteren Bau: Das Kirchenfeldschulhaus mit seiner schönen Turnhalle. Das Schulhaus stammt aus dem Jahr 1891, die Turnhalle wurde vier Jahre später ergänzt. Sie wirken gut unterhalten, der Aussenanstrich sieht frisch aus und die zwischen den beiden Gebäuden liegenden Freiflächen laden zum Fussballspielen und herumtollen ein. Man fragt sich, weshalb die Politik und die Gerichte sich seit Jahren bezüglich eines Sanierungs- und Umbauprojekts streiten.
 
